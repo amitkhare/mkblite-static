@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2813a6f6fc78e2abd502",
+    "revision": "5b907dfb23346457006b",
     "url": "/css/app.0a261aa7.css"
   },
   {
-    "revision": "8fd625a9f1fa48feae3c",
-    "url": "/css/chunk-vendors.7f541762.css"
+    "revision": "74bd1cbecabc82bc1d17",
+    "url": "/css/chunk-vendors.e106d7b2.css"
   },
   {
     "revision": "c05522505c7067b1e97910b5a67a26be",
@@ -56,15 +56,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/mkb/mkb-jacket-all-no-ticker.png"
   },
   {
-    "revision": "8d9d4cb3184be01ae5be6e3e18eec785",
+    "revision": "ee351cddf0339ba41ffa805ca95d1da3",
     "url": "/index.html"
   },
   {
-    "revision": "2813a6f6fc78e2abd502",
-    "url": "/js/app.bad8ab6b.js"
+    "revision": "5b907dfb23346457006b",
+    "url": "/js/app.c41760f5.js"
   },
   {
-    "revision": "8fd625a9f1fa48feae3c",
+    "revision": "74bd1cbecabc82bc1d17",
     "url": "/js/chunk-vendors.323f28b3.js"
   },
   {

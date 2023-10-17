@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.eb31ff9139a02431e448ff4ed97506fb.js"
+  "/precache-manifest.91c922c1e0b129980a494833c1db6129.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mkblite"});
